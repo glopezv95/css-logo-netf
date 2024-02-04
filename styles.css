@@ -71,18 +71,6 @@ span {
     color: #E50914;
     font-family: 'Bebas Neue', sans-serif;
     font-size: 5rem;
-}
-
-.text::after {
-    content: '';
-    width: 15rem;
-    height: 2rem;
-    background-color: black;
-    position: absolute;
-    border-radius: 100%;
-    bottom: 0.32rem;
-    transform: scale(1, 0.6);
-}
 
 @media (max-width:767px) {
     html {
