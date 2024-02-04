@@ -71,6 +71,7 @@ span {
     color: #E50914;
     font-family: 'Bebas Neue', sans-serif;
     font-size: 5rem;
+}
 
 @media (max-width:767px) {
     html {
